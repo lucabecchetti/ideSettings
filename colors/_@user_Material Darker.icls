@@ -4,7 +4,7 @@
     <property name="created">2019-09-18T18:31:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-18T18:45:13</property>
+    <property name="modified">2019-09-19T09:04:47</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <console-font>
@@ -36,6 +36,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
