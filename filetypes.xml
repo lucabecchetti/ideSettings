@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="edge" type="JavaScript" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
